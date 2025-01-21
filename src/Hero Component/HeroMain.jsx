@@ -15,7 +15,7 @@ import DropdownMenu from '../components/DropdownMenu';
 import gsap from "gsap"
 import Faq from './Component/Faq';
 import Carousel  from '../Carousel'
-import slide from '../constants'
+import slide from '../../src/constants'
 import slide2 from '../constant2'
 
 function HeroMain() {
