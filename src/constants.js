@@ -58,7 +58,7 @@ import noorLandingHeroBannerMobile from "./assets/Images/noor-landing-hero-banne
 import noorAdCampaignVideo from "./assets/Videos/ad-campaign-video.mp4"
 import khwaahishInnerView from "./Assets/Images/khwaahish-inner-view.jpg"
 
-import noor1 from "./assets/Images/noo1-1.jpg"
+import noor1 from "./assets/Images/noor-1.jpg"
 import noor2 from "./assets/Images/noor-2.jpg"
 import noor3 from "./assets/Images/noor-3.jpg"
 import noor4 from "./assets/Images/noor-4.jpg"
