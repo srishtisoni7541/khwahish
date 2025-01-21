@@ -53,7 +53,7 @@ export const categories = [
 
 // Noor:TODO:
 
-import noorLandingHeroBanner from "./Assets/Images/noor-landing-hero-banner.jpg"
+import noorLandingHeroBanner from "./assets/Images/noor-landing-hero-banner.jpg"
 import noorLandingHeroBannerMobile from "./Assets/Images/noor-landing-hero-banner-mobile.jpg"
 import noorAdCampaignVideo from "./Assets/Videos/ad-campaign-video.mp4"
 import khwaahishInnerView from "./Assets/Images/khwaahish-inner-view.jpg"
