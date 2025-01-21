@@ -2,7 +2,6 @@ import React from 'react'
 import { FaFacebookF, FaInstagram, FaRegCopyright, FaWhatsapp } from 'react-icons/fa';
 import { FiPhoneCall } from "react-icons/fi";
 import { IoMail } from "react-icons/io5";
-import { IoLocation } from "react-icons/io5";
 import { TfiYoutube } from "react-icons/tfi";
 function Footer() {
     return (

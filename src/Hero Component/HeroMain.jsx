@@ -3,8 +3,6 @@ import { FaSearch } from 'react-icons/fa';
 import { FaLocationDot } from 'react-icons/fa6';
 import { GiHamburgerMenu } from 'react-icons/gi';
 import Info from './Component/Info';
-import JewelleryCollection from './Component/JewelleryCollection';
-import QueenOFHearts from './Component/QueenOFHearts';
 import BridelPolki from './Component/BridelPolki';
 import Categories from './Component/Categories';
 import About from './Component/About';
